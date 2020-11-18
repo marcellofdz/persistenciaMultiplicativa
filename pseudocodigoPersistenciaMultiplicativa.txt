@@ -1,0 +1,32 @@
+## Pseudocodigo para la persistencia multiplicativa
+
+START
+
+repeticiones = 0; 
+num; 
+
+Write "Give me a number: ";
+readline(num);
+
+While num > 9 
+{
+   	producto = 1;
+	
+	while num is diferent 0 {
+
+		unidades = num % 10;
+		producto *= unidades;
+		num = (num - unidades)/10;	
+	}
+		
+	repeticiones++ aumenta;
+	write "The Product", repeticiones, " is: ", producto;
+
+	num = producto;
+} 
+
+
+        writeln("The multiplicative persistence is: ", repeticiones, ", The last number: ", num);
+      
+      
+

@@ -1,0 +1,66 @@
+##Casos de prueba para el programa de persistenca multiplicativa
+
+- Caso 1
+
+	195 
+
+	1 x 9 x 5 = 45
+	4 x 5 = 20
+	2 x 0 = 0	
+
+	Persistencia multiplicativa es 3
+
+---- end ---- 
+
+
+- Caso 2 
+
+	1998 
+
+	1 x 9 x 9 x8 = 648
+	6 x 4 x 8 = 192
+	1 x 9 x 2 = 18
+	1 x 8 = 8
+
+	Persistencia multiplicativa es 4
+
+----- end ----
+
+- Caso 3 
+
+	2001 
+
+	2 x 0 x 0 x 1 = 0 
+
+	Persistencia multiplicativa es 1 
+
+---- end ----
+
+
+- Caso 4 
+
+	999 
+
+	9 x 9 x 9 = 729 
+	7 x 2 x 9 = 126
+	1 x 2 x 6 = 12 
+	1 x 2 = 2 
+
+	Persistencia Multiplicatica es 4
+
+
+---- end ---- 
+
+
+- Caso 5 
+
+	7897
+
+	7 x 8 x 9 x 7 = 3528
+	3 x 5 x 2 x 8 = 240 
+	2 x 4 x 0 = 0 
+
+	Persistencia Multiplicativa es 3 
+
+--- end ---
+
